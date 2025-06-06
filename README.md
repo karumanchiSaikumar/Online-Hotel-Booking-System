@@ -20,6 +20,9 @@ Responsive Design: The platform is optimized for use on desktops, tablets, and m
 Project Team
 
 Sai Kumar Karumanchi: Project Manager and Backend Developer. Responsible for overseeing the project development and implementing the backend services using Spring Boot.
+
 Rishi Vasan: Frontend Developer. Worked on designing and implementing the user interface using React.
+
 Sindhu koratla: Database Administrator. Managed the MySQL database, including schema design and optimization.
+
  Kareti Pujitha: QA Engineer. Conducted thorough testing to ensure the application is bug-free and meets the quality standards.
